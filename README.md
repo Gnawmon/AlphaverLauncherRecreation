@@ -1,3 +1,5 @@
+# Project is on hiatus right now. I will (probably) return to this project later. 
+
 # AlphaverLauncherRecreation
 It's a recreation of [Minecraft Alpha 1.0.16 Versions ARG](https://www.youtube.com/@user-le2ev9cj8q) launcher.
 
